@@ -1,20 +1,29 @@
 # Hello World Centered Webpage
 
-This is a simple web page that displays the text **HELLO WORLD** in bold, block letters centered in the display, with a white background and black text. The project is ready to be deployed on GitHub Pages.
+A minimalist static web page displaying **HELLO WORLD** centered with a black background and white text. Perfect for deploying on GitHub Pages or using as a template for future projects.
 
 ## Features
-- Large, bold, uppercase "HELLO WORLD" centered on the page
-- High contrast: white background, black text
-- Clean, minimalist design
-- Fully responsive and works on all modern browsers
+- Centered, large, bold, uppercase "HELLO WORLD"
+- High contrast: black background, white text
+- Clean and modern appearance
+- Fully responsive and works in all modern browsers
 
 ## Getting Started
 
 ### View Online
-Publish this repository to GitHub Pages to see it live.
+Publish this repository on GitHub Pages to see the web page live.
 
 ### Run Locally
-Just open `index.html` in your web browser. No installation or dependencies required.
+Open `index.html` directly in your web browser. No dependencies or installation are required.
+
+## Project Structure
+
+
+index.html    # Main HTML file
+style.css     # Stylesheet for layout and appearance
+LICENSE       # MIT License information
+README.md     # Project documentation
+
 
 ## License
 
